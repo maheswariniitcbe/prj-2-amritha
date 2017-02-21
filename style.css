@@ -1,0 +1,6 @@
+/* Put your css in here */
+.angular-google-map-container {
+  display: block;
+  height: 400px;
+  width: 400px;
+}
